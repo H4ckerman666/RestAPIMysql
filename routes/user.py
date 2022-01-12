@@ -10,7 +10,7 @@ key = Fernet.generate_key()
 f = Fernet(key)
 @user.get("/")
 def home():
-    return {"welcome to my REST API"}
+    return {"Welcome to my REST API"}
     
     
 @user.get("/users", response_model=list[User], tags=["users"])
