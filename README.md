@@ -10,8 +10,8 @@
 - Heroku (Alojamiento)
 
 ## Base de Datos
-- Mysql (Alojada en Clever Cloud)
-
+- Mysql 
+- 
 ## Funcionalidad
 
 - CRUD de Usuarios
