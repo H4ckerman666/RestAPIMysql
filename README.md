@@ -19,3 +19,7 @@
 ## Test
 
 Puedes ver el ejemplo en el siguiente link : [My REST API](https://fastapi-users.herokuapp.com/)
+
+## Documentación de la API
+[Documentación REST API](https://fastapi-users.herokuapp.com/docs)
+
